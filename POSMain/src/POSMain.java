@@ -10,7 +10,7 @@ class CashRegister{
 class ShoppingCart{
     int [] quantity;
     public ShoppingCart(int size) {
-      quantity = new int[size];
+    	quantity = new int[size];
     }
     public void addQuatinty(int index)
     {
